@@ -4,12 +4,12 @@ Kreirajte varijable (imenujte ih i dodijelite im odgovarajuću vrijednost) za:
  - Stranice a i b, četverokuta te za površinu tog četverokuta.
 '''
 
-first_name = 'Pero'
-last_name = 'Pero'
-year_of_birth = 1998
+first_name = 'Rade'
+last_name = 'Gligić'
+year_of_birth = 1989
 contry_of_birth = 'Hrvatska'
 employment_status = True
-weight = 80.99
+weight = 85
 gender = 'male'
 
 

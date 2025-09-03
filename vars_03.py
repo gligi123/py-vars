@@ -33,13 +33,7 @@ Kreirati varijablu za čuvanje podataka o studentu: ime i prezime, OIB, email,
 broj telefona, prosječna ocjena, godina upisa studija, naziv studija, naziv sveučilišta
 '''
 # Opcija 1
-student = 'Pero Peric; 12345678901; pero.peric@email.com; ...'
-
-
-
-
-
-
+student = 'Pero Peric; 12345678901; pero.peric@email.com; 0912345678; 4.5; 2021; Informatika; Sveučilište u Zagrebu'
 
 
 

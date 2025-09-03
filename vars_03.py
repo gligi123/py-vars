@@ -33,49 +33,15 @@ Kreirati varijablu za čuvanje podataka o studentu: ime i prezime, OIB, email,
 broj telefona, prosječna ocjena, godina upisa studija, naziv studija, naziv sveučilišta
 '''
 # Opcija 1
-student = 'Pero Peric; 12345678901; pero.peric@email.com; 0912345678; 4.5; 2021; Informatika; Sveučilište u Zagrebu'
+student = 'Pero Peric; 12345678901; pero.peric@email.com; ...'
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Opcija 2
+first_name = 'Pero'
+last_name = 'Peric'
+oib = '12345678901' # 11 znamenki
+email = 'ana.horvat@example.com',
+telefon = '+385 91 123 4567',
+prosjek = 4.31,
+godina_upisa = 2022,
+studij = 'Računarstvo',
+sveuciliste = 'Sveučilište u Zagrebu'

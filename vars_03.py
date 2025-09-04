@@ -45,3 +45,37 @@ prosjek = 4.31,
 godina_upisa = 2022,
 studij = 'Računarstvo',
 sveuciliste = 'Sveučilište u Zagrebu'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
